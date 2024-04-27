@@ -135,6 +135,5 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 * Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
 
 ## Awards and Extra Curiculam
-__ Awarded "1st prize" for academic proficiency during the academic year "2018-19" and "2019-20" in "K.S.G College of arts and science, Coimbatore".
-__ I actively participated in "NSS" (National Service Scheme) and to served as a dedicated member of the
-"Rotract Club".
+ * Awarded **1st prize** for academic proficiency during the academic year **2018-19** and **2019-20** in **K.S.G College of arts and science, Coimbatore**.
+ * I actively participated in **NSS** (National Service Scheme) and to served as a dedicated member of the **Rotract Club**.
