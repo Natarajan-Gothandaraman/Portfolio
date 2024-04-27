@@ -3,23 +3,20 @@
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Awards and Extra Curiculam ](#Awards-and-Extra-Curiculam)
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a System Analyst. And on the other, due to my personality, I love to communicate with people and solve problems.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+I got my Master's Degree from the Erode Sengunthar Engineering College and have been a MCA fellow at the Anna University. 
 
 Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester.
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://docs.google.com/document/d/1C9ay6EHwz5WUiZnlDEVO3XGQfeU18NKZ9R-VlMH_I0U/edit?usp=sharing).
@@ -69,38 +66,6 @@ __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 
-__SoapUI__
-
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
-
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
-
-## Courses
-
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
-
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
-
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
-
-
 ## Examples of my work
 
 ### Test cases and work in TestRail
@@ -110,8 +75,8 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
   * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
 
 - [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
+  * Test case  for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
+  * Test case  for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
   * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
 
 
@@ -122,17 +87,6 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
-
-### Mindmaps and diagrams
-* Functional decomposition of [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing).
-* State-transition diagram of the loan application at [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing).
-* Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram](https://drive.google.com/file/d/1gbBCBGNyRJhp0DhFgFbpxrb9F2Zd5LnH/view?usp=sharing).
-* Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing).
-
-### Scripts for PICT (pairwise testing)
-
-* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
-* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
 
 ## Awards and Extra Curiculam
  * Awarded **1st prize** for academic proficiency during the academic year **2018-19** and **2019-20** in **K.S.G College of arts and science, Coimbatore**.
