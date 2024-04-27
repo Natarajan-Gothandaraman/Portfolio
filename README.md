@@ -9,7 +9,7 @@
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
+- [Awards and Extra Curiculam ](#Awards-and-Extra-Curiculam)
 
 ## About me
 
@@ -135,6 +135,6 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 * Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
 
 ## Awards and Extra Curiculam
-__Awarded "1st prize" for academic proficiency during the academic year "2018-19" and "2019-20" in "K.S.G College of arts and science, Coimbatore".
-__I actively participated in "NSS" (National Service Scheme) and to served as a dedicated member of the
+__ Awarded "1st prize" for academic proficiency during the academic year "2018-19" and "2019-20" in "K.S.G College of arts and science, Coimbatore".
+__ I actively participated in "NSS" (National Service Scheme) and to served as a dedicated member of the
 "Rotract Club".
