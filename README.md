@@ -44,4 +44,28 @@ I am a passionate **Full Stack Java Developer** with hands-on experience in buil
 
 ## 🎓 Education  
 - **MCA | Erode Sengunthar Engineering College** | CGPA: 9.1 (2022)  
-- **B.Sc Mathem**
+- **B.Sc Mathematics with Computer Applications | K.S.G College of Arts & Science** | CGPA: 7.7 (2020)  
+
+---
+
+## ⚡ Skills  
+
+**Languages:** Java (Advanced), C, HTML, CSS, JavaScript, SQL  
+**Frameworks & Tools:** Spring Boot, React, Git/GitHub, Vite.js, Postman, VS Code  
+**Other Expertise:** EDI Transactions, Blockchain (Solidity)  
+
+---
+
+## 🏆 Achievements  
+- 🥇 **1st Prize** for Academic Proficiency (2018–19 & 2019–20) at K.S.G College  
+- 🎓 Certified in **Full Stack Java Development** & **SQL** (Simplilearn, 2025)  
+
+---
+
+## 🌐 Connect with Me  
+- 💻 [GitHub](https://github.com/Natarajan-Gothandaraman)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/natarajangothandaraman/)  
+
+---
+
+✨ *Always open to collaborating on exciting projects and innovative ideas!*  
