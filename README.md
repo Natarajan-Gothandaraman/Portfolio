@@ -65,6 +65,7 @@ I am a passionate **Full Stack Java Developer** with hands-on experience in buil
 ## 🌐 Connect with Me  
 - 💻 [GitHub](https://github.com/Natarajan-Gothandaraman)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/natarajangothandaraman/)  
+- 📄 [Resume]([https://your-resume-link-here](https://drive.google.com/file/d/1znYBw9UVOh447zGIa_i-XmDw6e-G57il/view?usp=drive_link))  
 
 ---
 
