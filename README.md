@@ -39,6 +39,7 @@ I am a passionate **Full Stack Java Developer** with hands-on experience in buil
 ### 📌 **Blockchain Voting System** (Solidity, Ethereum, Remix IDE)  
 - Built a smart contract for secure, one-time voting.  
 - Ensured voter anonymity using hashing techniques.  
+🔗 [Blockchain Repo](https://github.com/Natarajan-Gothandaraman)  
 
 ---
 
@@ -65,7 +66,8 @@ I am a passionate **Full Stack Java Developer** with hands-on experience in buil
 ## 🌐 Connect with Me  
 - 💻 [GitHub](https://github.com/Natarajan-Gothandaraman)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/natarajangothandaraman/)  
-- 📄 [Resume](https://drive.google.com/file/d/1znYBw9UVOh447zGIa_i-XmDw6e-G57il/view?usp=drive_link))  
+- 📄 [Resume](https://drive.google.com/file/d/1znYBw9UVOh447zGIa_i-XmDw6e-G57il/view?usp=drive_link)  
+- ✉️ [Email](mailto:natarajangothandaraman@gmail.com)  
 
 ---
 
